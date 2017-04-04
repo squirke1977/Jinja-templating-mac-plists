@@ -23,8 +23,8 @@ template = env.get_template('Jinja-Fuzeroom-template')
 
 
 for row in csvReader:
-    isRoomName = row[RoomName]
-    isRoomURL = row[RoomURL]
+    isRoomName = row[RoomName].strip()
+    isRoomURL = row[RoomURL].strip()
     
     room_config = {"Room_username": isRoomURL, "Username_To_Join": isRoomName}
 
