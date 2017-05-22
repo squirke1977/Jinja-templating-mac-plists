@@ -11,7 +11,7 @@ And letting the python csv libraries and a handy for loop do the rest...
 
 You'll need to install the Jinja libraries to use this code. This can be done using python easy_install...
 
-`sudo easy_install jinja`
+`sudo easy_install jinja2`
 
 To use, run `python JinjaMobileconfig.py list_of_computers.csv`
 
