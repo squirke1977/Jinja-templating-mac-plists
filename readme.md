@@ -17,4 +17,4 @@ To use, run `python JinjaMobileconfig.py list_of_computers.csv`
 
 There's no proper error handling I'm afraid, it was just designed to be a quick and dirty fix for a problem I needed to solve!
 
-This code is for the creation of `mobileconfig` files to configure [Fuze for Rooms](https://www.fuze.com/products/fuze-rooms) on Mac clients at ThoughtWorks where I work.
+This code is for the creation of `mobileconfig` files to configure [Fuze for Rooms](https://www.fuze.com/products/fuze-rooms) on Mac clients at [ThoughtWorks](https://www.thoughtworks.com/).
